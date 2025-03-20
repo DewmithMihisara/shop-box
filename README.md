@@ -1,6 +1,4 @@
-# ShopBox | MERN Stack eCommerce Solutions 
-
-<img src="res-readme/github-cover-ShopBox-MERN.png" width="100%" />
+# ShopBox
 
 "ShopBox" is a feature-rich MERN stack e-commerce solution with user authentication, a user-friendly interface, shopping cart, order processing, user profiles, product reviews, responsive design, and secure PayPal integration. Empower your business to thrive online effortlessly.
 
@@ -11,7 +9,7 @@ Let's get started!
 First you have to clone the repository and install the dependencies:
 
 ```bash
-   git clone https://github.com/naieem-bd/ShopBox-MERN-Stack-eCommerce.git
+   git clone https://github.com/DewmithMihisara/shop-box.git
    cd ShopBox-MERN-Stack-eCommerce
    npm install
 ```
@@ -39,14 +37,11 @@ You may change the **.env** file according to your needs. To change the **.env**
 - Product Reviews and Ratings
 - Search and Filtering
 - Responsive Design
-- Payment Integration(PayPal)
 
 ## Acknowledgements
 
  - [React](https://react.dev/)
- - [Redux](https://redux.js.org/)
  - [Node](https://nodejs.org/en)
  - [Express](https://expressjs.com/)
  - [MongoDB](https://www.mongodb.com/)
  - [Mongoose](https://mongoosejs.com/)
- - [Inspired](https://github.com/bradtraversy/proshop_mern)
