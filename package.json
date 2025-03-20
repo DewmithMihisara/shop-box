@@ -14,14 +14,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/naieem-bd/ShopBox-MERN-Stack-eCommerce.git"
+    "url": "git+https://github.com/DewmithMihisara/my-new.git"
   },
-  "author": "Naieem",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/naieem-bd/ShopBox-MERN-Stack-eCommerce/issues"
-  },
-  "homepage": "https://github.com/naieem-bd/ShopBox-MERN-Stack-eCommerce#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "colors": "^1.4.0",
