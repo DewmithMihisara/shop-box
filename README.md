@@ -1,6 +1,6 @@
 # ShopBox
 
-"ShopBox" is a feature-rich MERN stack e-commerce solution with user authentication, a user-friendly interface, shopping cart, order processing, user profiles, product reviews, responsive design, and secure PayPal integration. Empower your business to thrive online effortlessly.
+"ShopBox" is a feature-rich MERN stack e-commerce solution with user authentication, a user-friendly interface, shopping cart, order processing, user profiles, product reviews, with responsive design. Empower your business to thrive online effortlessly.
 
 Let's get started!
 
